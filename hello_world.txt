@@ -1,3 +1,2 @@
 hello world 
-stab stab stab
-goodbye cruel world
+goodbye world
